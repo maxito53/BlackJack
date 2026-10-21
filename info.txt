@@ -1,0 +1,7 @@
+Capaz entendí mal, pero me pareció absurdo hacer que al rival le salga una carta boca arriba y otra boca abajo o hacer 
+que al jugador le salga una boca abajo, ver lo del rival es irrelevante y tapar una carta al jugador quita lo interesante 
+de pensar, así que me lo inventé un poco.
+
+La función de Eclipse para la interfaz gráfica no me sirvió de nada para la actividad, ya que solo se me ocurrió como
+hacerlo poniendo las cartas que se generen por un método, por lo tanto, ni salen en lo de editar, lo tuve que hacer todo
+a código esa parte.
